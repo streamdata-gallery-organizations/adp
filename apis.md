@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28114-adp.
 x-kinRank: "7"
 x-alexaRank: "609"
 tags: ADP
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/adp/master/_listings/adp/apis.md
 specificationVersion: "0.14"
 apis: []
